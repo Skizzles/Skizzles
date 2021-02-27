@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 ![Skizzles's Github Stats](https://github-readme-stats.vercel.app/api?username=Skizzles&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skizzles&theme=vision-friendly-dark&count_private=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Skizzles&show_icons=true" alt="Stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skizzles&layout=compact"><br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Skizzles">
