@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skizzles&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Profile Stats"><br>
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skizzles&layout=compact&theme=dark">
-</p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Skizzles">
 </p>
